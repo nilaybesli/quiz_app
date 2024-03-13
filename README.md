@@ -1,4 +1,4 @@
-Quiz app with Flutter
+Mini Quiz app with Flutter
 
 
 Start Screen:
