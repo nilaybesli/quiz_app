@@ -1,16 +1,16 @@
-# quiz_app
+Quiz app with Flutter
 
-A new Flutter project.
 
-## Getting Started
+Start Screen:
 
-This project is a starting point for a Flutter application.
+![Ekran görüntüsü 2024-03-07 010431](https://github.com/nilaybesli/quiz_app/assets/64665975/eea9dcfd-debd-4cdd-b761-17bde7b5a76d)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Question Screen:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Ekran görüntüsü 2024-03-07 010511](https://github.com/nilaybesli/quiz_app/assets/64665975/fb07c8fa-b8e0-4737-a898-7e560bb28c08)
+
+
+Result Screen: 
+
+![Ekran görüntüsü 2024-03-07 010357](https://github.com/nilaybesli/quiz_app/assets/64665975/ccebaaea-c0f5-4805-8571-35eae1eff123)
